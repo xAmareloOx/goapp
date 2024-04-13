@@ -11,5 +11,6 @@ $ ./server
 
 ```bash
 $ curl http://localhost:8080
-Hellow World !
+Projeto InfNet 2024
+OpenShift and GitOps
 ```
